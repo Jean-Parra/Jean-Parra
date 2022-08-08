@@ -1,6 +1,6 @@
 ### Hi there my name is Jean 👋
 
-Hi, my name is Jean, I'm a system engineering student currently interested in networking, currently studying hard for my CCNA and working in software development proyects
+Hi, my name is Jean, I'm a systems engineering student working on web development projects.
 
 ### Some stats about me
 
